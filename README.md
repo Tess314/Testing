@@ -1,8 +1,10 @@
-# Formulae
-Just me being a maths nerd.
+# Just me testing random stuff
 
-### My favourite formula
+### Formula
 $c/d=π$
 
-## How to write maths formulae on GitHub
-Wrap the formula around dollar signs.
+### Note
+
+> **Note**
+> \
+> This is a note
